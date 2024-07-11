@@ -21,9 +21,9 @@ title                    : "LLMs-Aberdeen 2025"
 title_separator          : "-"
 name                     : "LLMs-Aberdeen"
 description              : "Official website for the 1st Winter School on LLMs in Aberdeen"
-url                      : "https://2024.eacl.org/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://llms-abdn.github.io/2025/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/eacl-2024" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/llms-abdn/2025" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/uoa-logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "LLMs-Aberdeen 2025" # overrides the website title displayed in the masthead, use " " for no title
@@ -57,7 +57,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : eaclmeeting
+  username               : llms_abdn
 facebook:
   username               : eacl
   app_id                 :
@@ -108,7 +108,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/eaclmeeting 
+      url: https://x.com/llms_abdn 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: https://www.facebook.com/eacl2021
