@@ -9,14 +9,14 @@ sidebar:
 
 {% include committee-member.html
    name="Steffen Eger"
-   site="https://nl2g.github.io/team"
+   site="https://nl2g.github.io/team "
    picture="assets/images/se.jpg"
    institution="University of Sheffield & University of Mannheim"
 %}
 
 {% include committee-member.html
    name="Nafise Sadat Moosavi"
-   site="https://ns-moosavi.github.io/"
+   site="https://ns-moosavi.github.io/ "
    picture="assets/images/nm.jpg"
    institution="University of Sheffield"
 %}
@@ -24,7 +24,7 @@ sidebar:
 {% include committee-member.html
    name="Ehud Reiter"
    picture="assets/images/er.jpg"
-   site="https://ehudreiter.com/"
+   site="https://ehudreiter.com/ "
    institution="University of Aberdeen"
 %}
 
