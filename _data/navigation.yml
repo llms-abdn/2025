@@ -1,0 +1,69 @@
+# main links
+main:
+  - title: "Accommodation"
+    url: /accommodation/hotel/
+  - title: "City Guide"
+    url: /cityguide
+  - title: "Transport"
+    url: /transport
+  - title: "Speakers"
+    url: /speakers    
+
+program:
+  - title: Program
+    children:
+      - title: "EACL 2024 Program of Events"
+        url: /program/main/
+      - title: "Invited Speakers"
+        url: /program/invited/
+      - title: "Workshops"
+        url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
+      - title: "Main Conference Accepted Papers"
+        url: /program/main-accepted/
+      - title: "Findings Accepted Papers"
+        url: /program/findings-accepted/
+      - title: "Best Paper Awards"
+        url: /program/best-paper/
+
+registration:
+  - title: Registration
+    children:
+      - title: "EACL 2024 Registration"
+        url: /registration
+      - title: "Virtual Discounted Registration"
+        url: /virtualdiscounts
+
+calls:
+  - title: Call for
+    children:
+      - title: "Main Conference Papers"
+        url: /calls/papers/
+      - title: "System Demonstrations"
+        url: /calls/demos/
+      - title: "Workshops"
+        url: /calls/workshops/
+      - title: "Tutorials"
+        url: /calls/tutorials/
+      - title: "diversity & inclusion subsidies"
+        url: /calls/d-i-subsidies/
+      - title: "Student Volunteers"
+        url: /calls/student-volunteers/
+      - title: ""
+        url: /program/oral-poster/
+ethics:
+  - title: Ethics
+    children:
+      - title: "Ethics FAQ"
+        url: /ethics/faq/
+      - title: "Ethics Review Questions"
+        url: /ethics/review-questions/
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing"
+        url: /committees/organization/
+      - title: "Senior Program"
+        url: /committees/senior/
